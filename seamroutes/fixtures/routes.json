@@ -1,0 +1,24 @@
+{
+  "/tiles/0_0": {
+    "file": "left.json"
+  },
+  "/tiles/1_0": {
+    "file": "unavailable.json",
+    "status": 503
+  },
+  "/manifest": {
+    "file": "manifest.json"
+  },
+  "complete:/tiles/1_0": {
+    "file": "right.json"
+  },
+  "updated:/manifest": {
+    "file": "new-manifest.json"
+  },
+  "updated:/tiles/0_0": {
+    "file": "new-left.json"
+  },
+  "updated:/tiles/1_0": {
+    "file": "new-right.json"
+  }
+}

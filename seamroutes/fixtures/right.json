@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "version": "roads1",
+  "tile": "1_0",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sourceRoadId": "R7",
+        "partKey": "main",
+        "direction": "both",
+        "name": "边境道路",
+        "cutStart": true,
+        "cutEnd": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10,
+            2
+          ],
+          [
+            15,
+            2
+          ],
+          [
+            20,
+            2
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sourceRoadId": "R7",
+        "partKey": "main",
+        "direction": "both",
+        "name": "边境道路",
+        "cutStart": true,
+        "cutEnd": false
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10,
+            2
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      }
+    }
+  ]
+}

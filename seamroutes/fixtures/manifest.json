@@ -1,0 +1,14 @@
+{
+  "version": "roads1",
+  "grid_size": 10,
+  "tiles": [
+    {
+      "id": "0_0",
+      "href": "/tiles/0_0"
+    },
+    {
+      "id": "1_0",
+      "href": "/tiles/1_0"
+    }
+  ]
+}
